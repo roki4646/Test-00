@@ -48,6 +48,10 @@ header h1{
     color: #e6e6e6;
     box-shadow: 4px 3px 3px 4px ;
     border-radius: 2px;
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
 }
 .bc_img{
     background-image: url('../Images/bc.jpg');
@@ -59,4 +63,7 @@ header h1{
 }
 #blog{
     margin-top: 35px;
+}
+#best{
+    background-image: url('/Images/YT.jpg');
 }
